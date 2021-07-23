@@ -1,0 +1,10 @@
+[package]
+name = "gameloop-timing"
+description = "Timing utilities for gameloops & mainloops."
+homepage = "https://github.com/Longor1996/gameloop-timing"
+repository = "https://github.com/Longor1996/gameloop-timing"
+version = "0.1.0"
+authors = ["Longor1996 <lalongok@gmail.com>"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+edition = "2018"
